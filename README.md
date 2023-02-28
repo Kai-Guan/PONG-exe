@@ -1,5 +1,5 @@
 # PONG.exe
-.exe version of my pygame PONG
+.exe version of my pygame PONG (https://github.com/Kai-Guan/PONG)
 
 Download and extract .zip file.
 
