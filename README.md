@@ -3,22 +3,14 @@
 
 .exe made using auto-py-to-exe (https://pypi.org/project/auto-py-to-exe/)
 
-Download and extract .zip file.
+Download and run PONG.exe
 
-If you run pong.exe now, windows antivirus will flag the .exe and delete it. Therefore for windows:
+PONG.exe is an SFX Archive
 
-  Go to Windows Security
-  
-  Virus and threat protection
-  
-  Manage settings
-  
-  Add exclusion
-  
-  Select the pong.exe
+Extract it to the location where you want it.
 
-Run exe\PONG\pong.exe
+Open pong.exe in the extracted folder.
 
-It should now run as intended.
+Have fun :D
 
 Works on Windows 11 for me, other Operation Systems untested.
