@@ -17,7 +17,7 @@ If you run pong.exe now, windows antivirus will flag the .exe and delete it. The
   
   Select the pong.exe
 
-Run exe\pong exe no python needed\pong.exe
+Run exe\PONG\pong.exe
 
 It should now run as intended.
 
