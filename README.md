@@ -22,5 +22,3 @@ Run exe\pong exe no python needed\pong.exe
 It should now run as intended.
 
 Works on Windows 11 for me, other Operation Systems untested.
-
-I swear its not a virus, its just windows anti-virus being annoying.
