@@ -1,5 +1,5 @@
 # PONG.exe
-.exe version of my pygame PONG (https://github.com/Kai-Guan/PONG)
+.exe version of my pygame (PONG)[https://github.com/Kai-Guan/PONG]
 
 .exe made using auto-py-to-exe (https://pypi.org/project/auto-py-to-exe/)
 
