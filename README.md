@@ -5,13 +5,13 @@
 
 #### Instructions
 
-. Download and run PONG.exe
+- Download and run PONG.exe
 
-. PONG.exe is an SFX Archive
+- PONG.exe is an SFX Archive
 
-. Extract it to the location where you want it.
+- Extract it to the location where you want it.
 
-. Open pong.exe in the extracted folder.
+- Open pong.exe in the extracted folder.
 
 Have fun :D
 
