@@ -1,15 +1,17 @@
 # PONG.exe
 .exe version of my pygame [PONG](https://github.com/Kai-Guan/PONG)
 
-.exe made using auto-py-to-exe (https://pypi.org/project/auto-py-to-exe/)
+.exe made using [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/)
 
-Download and run PONG.exe
+#### Instructions
 
-PONG.exe is an SFX Archive
+# Download and run PONG.exe
 
-Extract it to the location where you want it.
+# PONG.exe is an SFX Archive
 
-Open pong.exe in the extracted folder.
+# Extract it to the location where you want it.
+
+# Open pong.exe in the extracted folder.
 
 Have fun :D
 
