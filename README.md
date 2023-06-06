@@ -3,8 +3,6 @@
 ### **There is a high chance that this exe version is not up to date.**
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 .exe version of my pygame [PONG](https://github.com/Kai-Guan/PONG)
 
